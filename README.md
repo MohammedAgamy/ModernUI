@@ -84,7 +84,9 @@ We welcome contributions! Follow these steps:
 This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
 ---
+  <img src ="https://github.com/MohammedAgamy/ModernUI/blob/master/WhatsApp%20Image%202024-11-29%20at%2012.11.47%20AM.jpeg">
 
+  
 ## Contact
 
 For queries or feedback:
